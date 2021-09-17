@@ -1,4 +1,4 @@
-this bash script will check: 
+this powershell script will check: 
 password length => 10
 numbers are present
 small letters are present
