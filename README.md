@@ -1,4 +1,4 @@
-this bash script will check: 
+this bash script will have feature that receives -f flag + file with included password and will check:
 password length => 10
 numbers are present
 small letters are present
